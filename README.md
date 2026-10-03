@@ -42,4 +42,4 @@ curl -s "https://dns.google/resolve?name=kwoksiuwang.com&type=A"
 
 ## app-ads.txt
 
-Ad-network lines are added after the AppLovin MAX and AdMob accounts are approved; each network's dashboard shows the exact line to copy.
+Holds the AdMob publisher line. When an ad network is added (e.g. through AdMob mediation), copy the line its dashboard gives you here and update the privacy policy.
