@@ -5,8 +5,8 @@ Static developer site, served by GitHub Pages at the apex domain `kwoksiuwang.co
 | Path | Purpose |
 |---|---|
 | `/` | Developer home (App Store "Marketing URL" / ad-network "Website") |
-| `/whitebear/` | White Bear Cafe support page (App Store "Support URL") |
-| `/whitebear/privacy.html` | White Bear Cafe privacy policy (App Store "Privacy Policy URL") |
+| `/melodycafe/` | Melody Cafe support page (App Store "Support URL") |
+| `/melodycafe/privacy.html` | Melody Cafe privacy policy (App Store "Privacy Policy URL") |
 | `/app-ads.txt` | Authorised ad sellers. Must stay at the **apex** domain root |
 
 No build step: plain HTML + one stylesheet.
