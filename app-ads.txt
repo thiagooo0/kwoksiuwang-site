@@ -1,0 +1,2 @@
+# app-ads.txt for kwoksiuwang.com
+# Ad network lines are added once the AppLovin MAX and AdMob accounts are approved.
