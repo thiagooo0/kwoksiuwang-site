@@ -1,2 +1,3 @@
 # app-ads.txt for kwoksiuwang.com
-# Ad network lines are added once the AppLovin MAX and AdMob accounts are approved.
+google.com, pub-5725350909315090, DIRECT, f08c47fec0942fa0
+# AppLovin MAX lines are added once the AppLovin account is approved.

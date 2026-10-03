@@ -11,19 +11,6 @@ Static developer site, served by GitHub Pages at the apex domain `kwoksiuwang.co
 
 No build step: plain HTML + one stylesheet.
 
-## Placeholders
-
-Replace before publishing:
-
-- `__DEVELOPER_NAME__` — must match the seller name on the App Store
-- `__CONTACT_EMAIL__`
-- `__EFFECTIVE_DATE__` — privacy policy effective date
-- `__YEAR__`
-
-```bash
-grep -rn "__[A-Z_]*__" --include=*.html .
-```
-
 ## Deploy (GitHub Pages)
 
 1. Push this folder to a public GitHub repo.
